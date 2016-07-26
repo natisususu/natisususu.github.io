@@ -1,6 +1,8 @@
 //12 07 2016 taller p5
 //elipse que sigue al mouse en un fondo verde
 
+//hola hola hola
+
 //variables
 //declaración de variables
 var anchoElipse;
